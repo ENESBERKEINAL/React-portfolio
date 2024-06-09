@@ -1,0 +1,36 @@
+.footer-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Footer {
+    width: 40%;
+    height: 60px;
+    background-color: #14072D;
+    display: flex;
+    justify-content: center;
+    bottom: 0px;
+    position: fixed;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.contact-text {
+    display: flex;
+    font-size: 24px;
+    left: 10px;
+    margin-right: 24px;
+}
+
+.Footer-sections {
+    display: flex;
+    gap: 12px;
+    justify-content: flex-end;
+}
+
+.footer-icons {
+    height: 36px;
+    width: 36px;
+    padding-right: 10px;
+}

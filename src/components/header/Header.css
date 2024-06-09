@@ -1,0 +1,33 @@
+
+.header-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Header {
+    display: flex;
+    height: 84px;
+    width: 95%;
+    background-color: #14072D;
+    justify-content: space-between;
+    margin-top: 16px;
+    border-radius: 50px;
+  }
+  
+.Header-left {
+    font-size: 30px;
+    display: flex;
+    padding: 24px;
+    align-items: center;
+
+}
+  
+.Header-right {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 12px;
+    padding: 24px;
+    font-size: 20px;
+}
