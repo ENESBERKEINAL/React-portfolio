@@ -31,5 +31,10 @@ jobs:
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         run: |
           sudo apt-get update
-          sudo apt-get install lftp -y
-          lftp -u "$FTP_USERNAME","$FTP_PASSWORD" -e "mirror -R ./build /path/on/server; bye" $FTP_SERVER
+          sudo apt-get install -y ftp
+          cd build
+          ftp -inv $FTP_SERVER <<EOF
+          user $FTP_USERNAME $FTP_PASSWORD
+          mput *
+          bye
+          EOF
