@@ -20,6 +20,17 @@
     display: flex;
     padding: 24px;
     align-items: center;
+    position: relative; 
+
+    &::after {
+      content: '';
+      position: absolute;
+      left: 66px;
+      right: 0;
+      bottom: 4px;
+      height: 2px; 
+      background-color: green; 
+    }
 
 }
   
@@ -30,4 +41,15 @@
     gap: 12px;
     padding: 24px;
     font-size: 20px;
+
+    > div {
+        padding: 8px;
+        border-radius: 6px; 
+        border: 1px solid transparent;
+        transition: border 0.3s ease;
+
+        &:hover {
+            border: 1px solid greenyellow;
+        }
+    }
 }
