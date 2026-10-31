@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "Enes Berke İnal — Full Stack Developer",
+    "description": "Enes Berke İnal — Full Stack Developer building user-focused web applications."
+  },
+  "header": {
+    "homeLabel": "Enes Berke İnal, home",
+    "navLabel": "Main navigation",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Get in touch",
+    "languageLabel": "Choose language",
+    "languageTurkish": "Turkish",
+    "languageEnglish": "English"
+  },
+  "hero": {
+    "role": "Full Stack Developer",
+    "titleLine1": "I turn digital",
+    "titleLine2": "ideas into real",
+    "titleLine3": "experiences.",
+    "description": "Hi, I'm Enes Berke İnal. I build user-focused web applications, bringing interfaces and backend systems together.",
+    "projectsCta": "Explore projects",
+    "aboutCta": "About me",
+    "note": "From idea to product, every detail matters.",
+    "visualLabel": "Code and design illustration",
+    "codeTitle": "building the web",
+    "status": "Open to ideas",
+    "region": "TR · WEB",
+    "crafted": "CRAFTED",
+    "withIntent": "WITH INTENT",
+    "design": "DESIGN",
+    "development": "DEVELOPMENT",
+    "scrollLabel": "SCROLL TO EXPLORE",
+    "scrollAria": "Scroll to the About section"
+  },
+  "about": {
+    "eyebrow": "01 / About",
+    "titleLine1": "More than good looks,",
+    "titleLine2": "experiences that work.",
+    "body": "To me, a great digital product combines a clear interface, thoughtful details, and a solid technical foundation. I focus on turning ideas into fast, sustainable web experiences—not just putting them on a screen.",
+    "cta": "Let's build together"
+  },
+  "skills": {
+    "eyebrow": "02 / Skills",
+    "titleLine1": "From idea to code,",
+    "titleLine2": "end to end.",
+    "intro": "The core tools I use to build modern web products.",
+    "frontend": "Frontend",
+    "frontendDescription": "User interfaces and engaging web experiences.",
+    "backend": "Backend",
+    "backendDescription": "The services and business logic behind applications.",
+    "product": "Product mindset",
+    "productDescription": "Thoughtful details, clean code, and decisions centered on users.",
+    "productNote": "THOUGHTFUL BY DESIGN"
+  },
+  "projects": {
+    "eyebrow": "03 / Selected work",
+    "titleLine1": "Ideas come",
+    "titleLine2": "to life here.",
+    "count": "PORTFOLIO",
+    "emptyLabel": "COMING INTO FOCUS",
+    "emptyTitleLine1": "The next good thing",
+    "emptyTitleLine2": "will be here.",
+    "emptyDescription": "I'll be sharing the projects I'm working on here soon. In the meantime, get in touch with your next idea.",
+    "cta": "Share an idea"
+  },
+  "contact": {
+    "eyebrow": "04 / Contact",
+    "overline": "LET'S BUILD SOMETHING TOGETHER",
+    "titleLine1": "Have a good",
+    "titleLine2": "idea?",
+    "cta": "Find me on LinkedIn"
+  },
+  "footer": {
+    "socialLabel": "Social media links",
+    "copyright": "Built with care."
+  }
+}

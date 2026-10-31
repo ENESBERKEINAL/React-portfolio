@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "Enes Berke İnal — Full Stack Developer",
+    "description": "Enes Berke İnal — kullanıcı odaklı web uygulamaları geliştiren Full Stack Developer."
+  },
+  "header": {
+    "homeLabel": "Enes Berke İnal, ana sayfa",
+    "navLabel": "Ana navigasyon",
+    "about": "Hakkımda",
+    "skills": "Yetkinlikler",
+    "projects": "Projeler",
+    "contact": "İletişime geç",
+    "languageLabel": "Dil seçimi",
+    "languageTurkish": "Türkçe",
+    "languageEnglish": "İngilizce"
+  },
+  "hero": {
+    "role": "Full Stack Developer",
+    "titleLine1": "Dijital fikirleri",
+    "titleLine2": "gerçek deneyimlere",
+    "titleLine3": "dönüştürüyorum.",
+    "description": "Merhaba, ben Enes Berke İnal. Kullanıcı odaklı web uygulamaları geliştiriyor; arayüz ve backend dünyasını bir araya getiriyorum.",
+    "projectsCta": "Projeleri keşfet",
+    "aboutCta": "Beni tanı",
+    "note": "Fikirden ürüne, her detay önemli.",
+    "visualLabel": "Kod ve tasarım temalı görsel",
+    "codeTitle": "building the web",
+    "status": "Yeni fikirlere açık",
+    "region": "TR · WEB",
+    "crafted": "ÖZENLE",
+    "withIntent": "TASARLANDI",
+    "design": "TASARIM",
+    "development": "GELİŞTİRME",
+    "scrollLabel": "KEŞFETMEK İÇİN KAYDIR",
+    "scrollAria": "Hakkımda bölümüne kaydır"
+  },
+  "about": {
+    "eyebrow": "01 / Hakkımda",
+    "titleLine1": "Güzel görünen değil,",
+    "titleLine2": "iyi çalışan deneyimler.",
+    "body": "Benim için iyi bir dijital ürün; anlaşılır bir arayüz, düşünülmüş detaylar ve sağlam bir teknik temel demek. Fikirleri yalnızca ekrana taşımakla kalmıyor, onları hızlı ve sürdürülebilir web deneyimlerine dönüştürmeye odaklanıyorum.",
+    "cta": "Birlikte üretelim"
+  },
+  "skills": {
+    "eyebrow": "02 / Yetkinlikler",
+    "titleLine1": "Fikirden koda,",
+    "titleLine2": "uçtan uca.",
+    "intro": "Modern web ürünleri geliştirirken kullandığım temel araçlar.",
+    "frontend": "Frontend",
+    "frontendDescription": "Kullanıcı arayüzleri ve etkileşimli web deneyimleri.",
+    "backend": "Backend",
+    "backendDescription": "Uygulamaların arkasındaki servisler ve iş mantığı.",
+    "product": "Ürün yaklaşımı",
+    "productDescription": "Özenli detaylar, temiz kod ve kullanıcıyı merkeze alan kararlar.",
+    "productNote": "TASARIMDA ÖZEN"
+  },
+  "projects": {
+    "eyebrow": "03 / Seçili işler",
+    "titleLine1": "Fikirler burada",
+    "titleLine2": "hayat buluyor.",
+    "count": "PORTFOLYO",
+    "emptyLabel": "YAKINDA BURADA",
+    "emptyTitleLine1": "Bir sonraki güzel şey",
+    "emptyTitleLine2": "burada olacak.",
+    "emptyDescription": "Üzerinde çalıştığım projeleri çok yakında burada paylaşacağım. Şimdilik yeni fikirler için iletişime geçebilirsin.",
+    "cta": "Bir fikir paylaş"
+  },
+  "contact": {
+    "eyebrow": "04 / İletişim",
+    "overline": "BİRLİKTE BİR ŞEYLER ÜRETELİM",
+    "titleLine1": "Güzel bir fikrin",
+    "titleLine2": "mi var?",
+    "cta": "LinkedIn üzerinden ulaş"
+  },
+  "footer": {
+    "socialLabel": "Sosyal medya bağlantıları",
+    "copyright": "Özenle kodlandı."
+  }
+}
