@@ -13,6 +13,7 @@ export default function Header() {
         </a>
         <nav className="site-nav" aria-label={t.header.navLabel}>
           <a href="#about">{t.header.about}</a>
+          <a href="#experience">{t.header.experience}</a>
           <a href="#skills">{t.header.skills}</a>
           <a href="#projects">{t.header.projects}</a>
         </nav>

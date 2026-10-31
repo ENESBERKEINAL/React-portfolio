@@ -116,6 +116,122 @@ export default function Body() {
         </div>
       </section>
 
+      <section className="experience-section section-shell page-shell" id="experience">
+        <div className="section-label scroll-reveal reveal-from-left">
+          <span className="eyebrow">{t.experience.eyebrow}</span>
+          <span className="label-rule" />
+        </div>
+        <div className="experience-intro scroll-reveal reveal-from-right">
+          <h2 className="section-heading">
+            {t.experience.titleLine1}
+            <br />
+            <span>{t.experience.titleLine2}</span>
+          </h2>
+          <p>{t.experience.intro}</p>
+        </div>
+        <div className="experience-list">
+          <article className="experience-entry scroll-reveal reveal-from-right">
+            <div className="experience-mark" aria-hidden="true">AL</div>
+            <div className="experience-details">
+              <div className="experience-heading-row">
+                <div>
+                  <h3>{t.experience.allianzRole}</h3>
+                  <p className="experience-company">
+                    {t.experience.allianzCompany} · {t.experience.allianzPartner}
+                  </p>
+                </div>
+                <span className="experience-type">{t.experience.fullTime}</span>
+              </div>
+              <div className="experience-meta">
+                <span>{t.experience.allianzPeriod}</span>
+                <span>{t.experience.allianzLocation}</span>
+              </div>
+            </div>
+          </article>
+
+          <article className="experience-entry scroll-reveal reveal-from-right reveal-delay-1">
+            <div className="experience-mark" aria-hidden="true">BI</div>
+            <div className="experience-details">
+              <div className="experience-heading-row">
+                <div>
+                  <h3>{t.experience.boltRole}</h3>
+                  <p className="experience-company">{t.experience.boltCompany}</p>
+                </div>
+                <span className="experience-type">{t.experience.boltType}</span>
+              </div>
+              <div className="experience-meta">
+                <span>{t.experience.boltPeriod}</span>
+                <span>{t.experience.boltLocation}</span>
+              </div>
+              <ul className="experience-highlights">
+                <li>{t.experience.boltSummary1}</li>
+                <li>{t.experience.boltSummary2}</li>
+              </ul>
+            </div>
+          </article>
+
+          <article className="experience-entry scroll-reveal reveal-from-right reveal-delay-1">
+            <div className="experience-mark" aria-hidden="true">TY</div>
+            <div className="experience-details">
+              <div className="experience-heading-row">
+                <div>
+                  <h3>{t.experience.trendyolCompany}</h3>
+                  <p className="experience-company">{t.experience.trendyolLocation}</p>
+                </div>
+                <span className="experience-type">{t.experience.trendyolPeriod}</span>
+              </div>
+              <div className="experience-roles">
+                <div className="experience-role-row">
+                  <strong>{t.experience.trendyolRole1}</strong>
+                  <span>{t.experience.trendyolPeriod1} · {t.experience.fullTime}</span>
+                </div>
+                <div className="experience-role-row">
+                  <strong>{t.experience.trendyolRole2}</strong>
+                  <span>{t.experience.trendyolPeriod2} · {t.experience.fullTime}</span>
+                </div>
+                <div className="experience-role-row">
+                  <strong>{t.experience.trendyolRole3}</strong>
+                  <span>{t.experience.trendyolPeriod3} · {t.experience.fullTime}</span>
+                </div>
+                <div className="experience-role-row">
+                  <strong>{t.experience.trendyolRole4}</strong>
+                  <span>{t.experience.trendyolPeriod4} · {t.experience.internship}</span>
+                </div>
+              </div>
+              <ul className="experience-highlights">
+                <li>{t.experience.trendyolSummary1}</li>
+                <li>{t.experience.trendyolSummary2}</li>
+              </ul>
+            </div>
+          </article>
+
+          <article className="experience-entry scroll-reveal reveal-from-right reveal-delay-2">
+            <div className="experience-mark" aria-hidden="true">K</div>
+            <div className="experience-details">
+              <div className="experience-heading-row">
+                <div>
+                  <h3>{t.experience.kodluyoruzRole}</h3>
+                  <p className="experience-company">{t.experience.kodluyoruzCompany}</p>
+                </div>
+                <span className="experience-type">{t.experience.kodluyoruzType}</span>
+              </div>
+              <div className="experience-meta">
+                <span>{t.experience.kodluyoruzPeriod}</span>
+              </div>
+              <p className="experience-description">{t.experience.kodluyoruzSummary}</p>
+            </div>
+          </article>
+        </div>
+        <a
+          className="text-link experience-link scroll-reveal reveal-from-left"
+          href="https://www.linkedin.com/in/enesberkeinal/details/experience/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          {t.experience.linkedinCta} <span aria-hidden="true">↗</span>
+        </a>
+      </section>
+
       <section className="skills-section section-shell" id="skills">
         <div className="page-shell">
           <div className="section-label scroll-reveal reveal-from-left">
