@@ -1,4 +1,7 @@
 {
+  "common": {
+    "backToTop": "Başa dön"
+  },
   "meta": {
     "title": "Enes Berke İnal — Full Stack Developer",
     "description": "Enes Berke İnal — kullanıcı odaklı web uygulamaları geliştiren Full Stack Developer."

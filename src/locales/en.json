@@ -1,4 +1,7 @@
 {
+  "common": {
+    "backToTop": "Back to top"
+  },
   "meta": {
     "title": "Enes Berke İnal — Full Stack Developer",
     "description": "Enes Berke İnal — Full Stack Developer building user-focused web applications."
